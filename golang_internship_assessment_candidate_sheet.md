@@ -337,10 +337,3 @@ You are tasked with building a core discount calculation component for an Indone
 
 - **Task:**
   Write the complete, runnable Go code implementing the structs, the `CalculateFinalPrice` function, and a simple `main()` test case.
-
-*Write your Go code here:*
-```go
-package main
-
-// TODO: Write your code here
-```
