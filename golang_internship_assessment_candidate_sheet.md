@@ -58,7 +58,7 @@ To evaluate your practical Git workflow and version control habits, you are requ
 ### Section 1: Single-Choice (Write A, B, C, or D)
 | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 | Q7 | Q8 | Q9 | Q10 | Q11 | Q12 | Q13 | Q14 | Q15 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] | [ &nbsp; ] |
+| [ B ] | [ B ] | [ B ] | [ C ] | [ C ] | [ B ] | [ B ] | [ B ] | [ B ] | [ B ] | [ B ] | [ A ] | [ A ] | [ B ] | [ B ] |
 
 ### Section 2: Multiple Select / Checkbox (Write all correct letters, e.g., "A, B, D")
 | Q16 | Q17 | Q18 | Q19 | Q20 |
