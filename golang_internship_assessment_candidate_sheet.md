@@ -267,9 +267,19 @@ However, two requirements must be fulfilled:
   2. Explain what the `json:"-"` struct tag does during JSON serialization (`json.Marshal`).
 
 *Write your answer here:*
+
+1. 
+```go
+type User struct {
+    ID           int    `json:"id"`
+    FullName     string `json:"full_name"`
+    Email        string `json:"email"`
+    PasswordHash string `json:"-"`
+}
+```
+2. 
 ```text
-
-
+The json:"-" struct tag tells Go's encoding/json package to completely ignore that field during JSON serialization with json.Marshal. Therefore, PasswordHash will not appear in the JSON response sent to the frontend.
 ```
 
 ---
@@ -286,7 +296,8 @@ Your team is building an **E-Commerce Platform**. You need to store two main mod
 
 *Write your answer here:*
 ```text
-
+MySQL for User Wallets, because wallet operations require strong consistency, atomic transactions, and reliable rollback when a transaction fails. MySQL provides ACID transaction guarantees, which helps ensure that financial transfers are completed safely without partial updates or data loss.
+MongoDB for the Product Catalog, because products can have widely different and dynamic attributes. MongoDB's flexible document-based schema allows different product types to store different specifications without requiring frequent schema changes, making it suitable for laptops, T-shirts, shoes, and other products with varying attributes.
 
 ```
 
