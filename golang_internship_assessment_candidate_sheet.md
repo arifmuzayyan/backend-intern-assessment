@@ -63,7 +63,7 @@ To evaluate your practical Git workflow and version control habits, you are requ
 ### Section 2: Multiple Select / Checkbox (Write all correct letters, e.g., "A, B, D")
 | Q16 | Q17 | Q18 | Q19 | Q20 |
 |:---:|:---:|:---:|:---:|:---:|
-| [ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ] | [ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ] | [ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ] | [ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ] | [ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ] |
+| [ A, B, D, E ] | [ A, B, C, E ] | [ A, B, C, E ] | [ A, C, D, E ] | [ A, B, C, E ] |
 
 ---
 
